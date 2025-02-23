@@ -4,7 +4,7 @@ Soy un desarrollador Junior en la empresa ItData, me gustan los videojuegos y am
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andres-salvador-sifuentes-torres-9a5187203) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22433344/andres1439) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salvador-1998@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/andres-salvador-sifuentes-torres-9a5187203](https://www.linkedin.com/in/andres-salvador-sifuentes-torres-9a5187203)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22433344/andres1439) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salvador-1998@hotmail.com)
 
 # 💻 Tech Stack:
 
