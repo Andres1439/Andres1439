@@ -12,5 +12,6 @@ Soy un desarrollador Junior en la empresa ItData, me gustan los videojuegos y am
 
 [![](https://visitcount.itsvg.in/api?id=Andres1439&icon=2&color=1)](https://visitcount.itsvg.in)
 
-###
+### 🐍 Contribuciones en acción:
+![Snake animation](https://github.com/Andres1439/Andres1439/blob/output/github-contribution-grid-snake.svg)
 
