@@ -2,7 +2,7 @@
 
 Soy un desarrollador Junior en la empresa ItData, me gustan los videojuegos y amante de la tecnologia.<br>Tengo conocimientos en Java, C#, javascript, python , uso de bases de datos<br>Vivo en lima, peru<br>
 
-## 🌐 Socials:
+## 🌐 Socials: https://andres1439.github.io/portfolio/
 
 # 💻 Tech Stack:
 
